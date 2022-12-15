@@ -7,3 +7,14 @@ function addJournal (e) {
 
 
 console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
+console.log("this is from the js file!")
